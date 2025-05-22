@@ -33,6 +33,7 @@
 				"poe", "prompt-tune",
 				"--config",
 				"<path_to_ragtest_root_demo>/settings.yaml",
+				
 			]
 		}
 	]
